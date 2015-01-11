@@ -4,5 +4,8 @@ public class GitExperimentProjectClass2 {
   
   public void addedNewFeatureRemote() {
     
+  }  
+  public void addedNewFeatureRemote2() {
+    
   }
 }
