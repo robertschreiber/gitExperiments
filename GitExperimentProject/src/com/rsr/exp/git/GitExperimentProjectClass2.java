@@ -2,11 +2,11 @@ package com.rsr.exp.git;
 
 public class GitExperimentProjectClass2 {
 	
-	  public void addedNewFeatureLocal() {
+	  public void addedNewFeatureCommon() {
 		    
 	  }
 	  
-	  public void addedNewFeatureLocal2() {
+	  public void addedNewFeatureCommon2() {
 		    
 	  }
 }
